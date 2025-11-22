@@ -5,9 +5,9 @@ The tool features seamless Telegram configuration, enabling users to send comman
 ## How to clone the repo
 ```bash
 git clone https://github.com/Iankulani/Accurate-Cyber-Defense-RedScanner-Bot.git
-cd Accurate-Cyber-Defense-RedScan-Bot
+cd Accurate-Cyber-Defense-RedScanner-Bot
 ```
 ## How to run
 ```bash
-python3 Accurate-Cyber-Defense-RedScan-Bot.py
+python3 Accurate-Cyber-Defense-RedScanner-Bot.py
 ```
